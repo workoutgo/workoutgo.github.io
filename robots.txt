@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+
+
+sitemap: https://workoutgo.github.io/sitemapx.xml
